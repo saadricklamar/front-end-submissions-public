@@ -130,8 +130,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Saad Baradan
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
+* [Node Server Tutorial](https://github.com/saadricklamar/messages)
+* [Annotated Express server file](https://github.com/saadricklamar/Trapper-Keeper-Server)
 * [Promise Practice Exercises]()
 
 ## Sally Haefling
