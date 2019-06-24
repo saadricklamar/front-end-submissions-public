@@ -132,7 +132,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 * [Node Server Tutorial]()
 * [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Promise Practice Exercises](https://gist.github.com/saadricklamar/e067e977f0dea44e7f387363f792821f)
 
 ## Sally Haefling
 
